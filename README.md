@@ -96,3 +96,5 @@ tudo.
 da API do Kaggle já configurada no código. 
 - EXTRA: Caso queira ver o dataset na íntegra, o link é esse: 
 https://www.kaggle.com/datasets/laotse/credit-risk-dataset
+- EXTRA: Para facilitar a vida do professor, pode somente clicar no botão
+"Open In Colab" no início do README para ser redirecionado ao código
