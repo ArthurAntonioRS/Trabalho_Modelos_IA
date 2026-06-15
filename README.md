@@ -1,5 +1,8 @@
 # Trabalho_Modelos_IA
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]([SEU_LINK_DO_GITHUB_AQUI](https://github.com/ArthurAntonioRS/Trabalho_Modelos_IA/blob/main/Trabalho_Modelos_IA/TrabalhoFinal_Munif.ipynb))
+
+
 Disciplina de Inteligência Artificial - Professor Munif - 
 Unicesumar 2026 
 
