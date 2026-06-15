@@ -84,12 +84,12 @@ O projeto foi desenvolvido inteiramente em um Notebook do Google Colab. Não
 é necessário instalar nada em sua máquina local para testá-lo. 
 Passo a Passo:
 
-1. Abra o arquivo `TrabalhoFinal_Munif.ipynb` presente neste repositório. 
-2. No topo da página (pelo GitHub), você verá um botão escrito "Open in 
+- Abra o arquivo `TrabalhoFinal_Munif.ipynb` presente neste repositório. 
+- No topo da página (pelo GitHub), você verá um botão escrito "Open in 
 Colab" (Abrir no Colab). Clique nele. 
-3. No menu superior do Colab, clique em Ambiente de execução -> Executar 
+- No menu superior do Colab, clique em Ambiente de execução -> Executar 
 tudo. 
-4. O download da base de dados será feito de forma 100% automática através 
+- O download da base de dados será feito de forma 100% automática através 
 da API do Kaggle já configurada no código. 
-5. EXTRA: Caso queira ver o dataset na íntegra, o link é esse: 
+- EXTRA: Caso queira ver o dataset na íntegra, o link é esse: 
 https://www.kaggle.com/datasets/laotse/credit-risk-dataset
