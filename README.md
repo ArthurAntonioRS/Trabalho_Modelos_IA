@@ -7,6 +7,7 @@ Unicesumar 2026
 1. Identificação da Equipe 
 
 Arthur Antonio Rabelo de Souza - RA: 23003805-2 
+
 Felipe Saueressig Mello - RA: 23167656-2
 
 
@@ -81,7 +82,8 @@ abordagens baseadas estritamente em proximidade geométrica (KNN).
 7. Como Executar o Projeto 
 O projeto foi desenvolvido inteiramente em um Notebook do Google Colab. Não 
 é necessário instalar nada em sua máquina local para testá-lo. 
-Passo a Passo: 
+Passo a Passo:
+
 1. Abra o arquivo `TrabalhoFinal_Munif.ipynb` presente neste repositório. 
 2. No topo da página (pelo GitHub), você verá um botão escrito "Open in 
 Colab" (Abrir no Colab). Clique nele. 
